@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Linha de cabecalho
 # TEste de feature feito com sucesso
+=======
+# O teste de feature foi foi feito
+>>>>>>> 0af226b57f8fc0ee0015b97ce2c1e113de082185
