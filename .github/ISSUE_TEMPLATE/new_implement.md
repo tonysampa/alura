@@ -1,20 +1,26 @@
-﻿---
-name: Nova funcionalidade
-about: Crie um relatório explicativo
+---
+name: "New implement"
+about: "Use este template para new implement"
+title: "[BUG] Descreva a funcionalidade"
+labels: bug
+assignees: ''
 
 ---
 
-**Descreva o problema:**
-Uma descrição clara e concisa do que é sua implementação.
+**Descrição da funcionalidade**
+Uma descrição clara e concisa do que é.
 
-**Passos para Reproduzir:**
-Passos para reproduzir o comportamento.
+**Passos para reproduzir**
+Passos para reproduzir o comportamento:
+1. Vá para '...'
+2. Clique em '...'
+3. Veja '...'
 
-**Comportamento Esperado:**
-Uma descrição clara e concisa do que será (para que servirá).
+**Comportamento esperado**
+O que você esperava que aconteça?
 
-**Capturas de Tela:**
-Se aplicável, adicione capturas de tela para ajudar a explicar a nova funcionalidade.
+**Capturas de tela**
+Se aplicável, adicione capturas de tela para ajudar a explicar a funcionalidade.
 
-**Contexto Adicional:**
-Escreva qualquer contexto adicional.
+**Informações adicionais**
+Qualquer outra informação que ajude.
