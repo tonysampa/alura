@@ -2,4 +2,8 @@
 # TEste de feature feito com sucesso
 # O teste de feature foi foi feito
 
+<<<<<<< HEAD
 # Marcha soldado, cabeça de papel
+=======
+# Marcha
+>>>>>>> 8ddaf6f20eec005d9957392fd375e31a2e2be068
